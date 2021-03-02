@@ -1,6 +1,6 @@
 {
   "name": "@totentech/api-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "Interface from the client side to an API.",
   "keywords": [
@@ -20,7 +20,9 @@
   },
   "author": "Benjamin Guibert <contact@bguibert.com>",
   "files": [
-    "dist/"
+    "dist/",
+    "README.md",
+    "CHANGELOG.md"
   ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
