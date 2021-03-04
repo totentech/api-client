@@ -1,6 +1,6 @@
 {
   "name": "@totentech/api-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "description": "Interface from the client side to an API.",
   "keywords": [
@@ -34,7 +34,7 @@
     "test:watch": "jest --watch --coverage=false"
   },
   "devDependencies": {
-    "@tsconfig/node14": "^1.0.0",
+    "@tsconfig/node12": "^1.0.7",
     "@types/jest": "^26.0.20",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
     "@typescript-eslint/parser": "^4.16.1",
